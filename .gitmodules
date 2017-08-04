@@ -1,6 +1,0 @@
-[submodule "cookbooks/chef-yara"]
-	path = cookbooks/chef-yara
-	url = https://github.com/pwelch/chef-yara.git
-[submodule "cookbooks/chef-cuckoo"]
-	path = cookbooks/chef-cuckoo
-	url = https://github.com/pwelch/chef-cuckoo.git
