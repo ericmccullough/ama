@@ -1,5 +1,5 @@
 name 'yara'
-maintainer 'The Authors'
+maintainer 'Eric McCullough'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures yara'
