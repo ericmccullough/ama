@@ -3,7 +3,5 @@
 # Recipe:: install
 #
 
-package 'yara' do
-  action :remove
-end
+package 'yara'
 
