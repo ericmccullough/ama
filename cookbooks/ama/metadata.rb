@@ -4,7 +4,7 @@ maintainer_email 'eric_mccullough@hotmail.com'
 license 'all_rights'
 description 'Installs/Configures Automated Malware Analysis server'
 long_description 'Installs/Configures an Automated Malware Analysis server'
-version '0.2.0'
+version '0.5.0'
 
 supports 'ubuntu'
 
@@ -16,6 +16,6 @@ depends 'yum'
 depends 'ark'
 depends 'build-essential'
 #depends 'yara'
-#depends 'cuckoo'
+depends 'cuckoo'
 # depends 'viper'
 
